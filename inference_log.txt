@@ -1,0 +1,50 @@
+Sample 0
+Python Prediction: 7
+C Prediction: 7
+True Label: 7
+
+Sample 1
+Python Prediction: 2
+C Prediction: 2
+True Label: 2
+
+Sample 2
+Python Prediction: 1
+C Prediction: 1
+True Label: 1
+
+Sample 3
+Python Prediction: 0
+C Prediction: 0
+True Label: 0
+
+Sample 4
+Python Prediction: 4
+C Prediction: 4
+True Label: 4
+
+Sample 5
+Python Prediction: 1
+C Prediction: 1
+True Label: 1
+
+Sample 6
+Python Prediction: 4
+C Prediction: 4
+True Label: 4
+
+Sample 7
+Python Prediction: 9
+C Prediction: 9
+True Label: 9
+
+Sample 8
+Python Prediction: 6
+C Prediction: 6
+True Label: 5
+
+Sample 9
+Python Prediction: 9
+C Prediction: 9
+True Label: 9
+
