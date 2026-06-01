@@ -82,15 +82,15 @@ float32 image[1*28*28]
 
 - Accuracy plot: `accuracy_plot.png`
 - Loss plot: `loss_plot.png`
-- Training and inference logs: `logs (1).png`, `logs (2).png`, `logs (3).png`
+- Training and inference logs: `logs (2).png`, `logs (3).png`, `logs (1).png`
 - Five displayed test images: shown by `train.py`
 
 ![Accuracy Plot](accuracy_plot.png)
 
 ![Loss Plot](loss_plot.png)
 
-![Logs 1](logs%20(1).png)
-
 ![Logs 2](logs%20(2).png)
 
 ![Logs 3](logs%20(3).png)
+
+![Logs 1](logs%20(1).png)
